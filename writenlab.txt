@@ -1,0 +1,15 @@
+Tiga hal yang mendorong bisnis untuk mempertimbangkan cloud:
+1. Menggunakan cloud dapat meminimalisir terjadinya gangguan sistem informasi yang secara masif dan menyeluruh. Dengan perpaduan model cloud hybrid, on-premise dan cloud, resiko terjadinya gangguan sistem informasi dapat dibagi di dua sisi tersebut.
+2. Dengan cloud suatu organisasi dapat melakukan rapid scaling ketika diperlukan penambahan computing power. Hal yang sama juga ketika computing power tersebut dimatikan, kita bisa menghapusnya secara lebih cepat dan mudah.
+3. Menggunakan cloud akan mempermudah organisasi untuk menambah atau mengurangi services yang mungkin mereka perlukan untuk bisnis yang dijalankan.
+
+Tiga model layanan cloud:
+1. IaaS. 
+Kelebihan dari model ini adalah keamanan yang lebih terjamin. Dengan IaaS, organisasi juga dapat mengatur bagaimana topologi serta konfigurasi cloud yang mereka inginkan seakan-akan mereka memiliki data center on premise.
+Kekurangan dari IaaS, secara proses maintenance lebih kompleks dibandingkan dengan cloud service model lainnya. Dan juga, memerlukan konfigurasi dan 
+2. SaaS.
+Kelebihannya adalah model ini memudahkan organisasi untuk fokus pada proses bisnis yang mereka kerjakan, dan setiap kebutuhan maintenance sistem informasi diserahkan ke cloud provider.
+Kekurangannya, model ini tidak bisa terlalu banyak dikonfigurasi sesuai kebutuhan organisasi.
+3. Paas.
+Kelebihan dari model ini memudahkan organisasi untuk menggunakan OS yang sudah umumm tersedia oleh cloud provider, dan melakukan instalasi aplikasi apapun diatas OS tersebut.
+Kekurangan dari PaaS, jika suatu organisasi menggunakan OS dari sumber yang tidak dapat dipercaya (docker Hub) akan ada resiko keamanan. 
